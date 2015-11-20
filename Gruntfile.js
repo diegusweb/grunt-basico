@@ -1,7 +1,5 @@
 module.exports = function (grunt) {
-	// Project configuration.
 	grunt.initConfig({
-		//uglify
 		uglify: {
 			options: {
 				mangle: false,
@@ -20,7 +18,6 @@ module.exports = function (grunt) {
 		}
  });
  
- // loadNpmTasks
  grunt.loadNpmTasks('grunt-contrib-uglify');
  
  // Run Default task(s).
