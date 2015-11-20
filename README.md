@@ -1,4 +1,4 @@
-grunt-primerospasos
+grunt-ejemplo-basico
 ===================
 
-Grunt Primeros Pasos
+Grunt Primeros Pasos con ejemplo basico
